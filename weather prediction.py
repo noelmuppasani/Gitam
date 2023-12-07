@@ -14,3 +14,4 @@ elif 100 < w <= 200:
     print("the weather is rainy")
 else:
     print("the weather is stormy")
+    
